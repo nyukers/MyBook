@@ -1,4 +1,4 @@
-# It's my books, Nyukers (C)opyright.
+# Welcome to my books, Nyukers (C)opyright.
 "За кулисами Youtube. Практический взгляд", Nyukers, 2013.
 
 "Компьютерный инцидент – от теории к практике. CLI Forensic Toolkit", Nyukers, 2013.
