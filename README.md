@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/nyukers/Pixel-Maker/blob/main/README/pixelmaker2.jpg" />
+<img width="825" height="690" alt="Wild Coffee: 24 Shots of the Human Interface" src="https://github.com/nyukers/MyBook/blob/main/win2022.jpg" />
 </div>
 
 # Welcome to my e-books, Nyukers (C)opyright, 2005-2020.
@@ -21,7 +21,7 @@ Bonus: some of my fantastic e-books here!
 
 My online Library http://nyukers.blogspot.com/p/blog-page_3.html
 
-# NEW: e-book «Wild Coffee: 24 Shots of the Human Interface»
+## NEW: e-book «Wild Coffee: 24 Shots of the Human Interface»
 The charming cafe on Teatralna Street is well-known for its peculiar novelties. The ideas for these seemingly strange stories were inspired by a single cup of Irish coffee.
 Taste them for yourself. I am certain you will find something that resonates. In the eternal struggle to collapse distance or defeat time, one can only choose one path.
 For inspired by my book WILD COFFEE you can get your 24 shots here: https://payhip.com/b/0TIsA
