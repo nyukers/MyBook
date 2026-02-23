@@ -17,8 +17,6 @@
 
 "My Excel: tips & tricks", Nyukers, 2017.
 
-Bonus: some of my fantastic e-books here!
-
 My online Library http://nyukers.blogspot.com/p/blog-page_3.html
 
 ## 2025: 2nd ediion of e-book «Wild Coffee: 24 Shots of the Human Interface»
