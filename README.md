@@ -19,7 +19,7 @@
 
 My online Library http://nyukers.blogspot.com/p/blog-page_3.html
 
-## 2025: 2nd ediion of e-book «Wild Coffee: 24 Shots of the Human Interface»
+## 2025: 2nd edition of e-book «Wild Coffee: 24 Shots of the Human Interface»
 The charming cafe on Teatralna Street is well-known for its peculiar novelties. The ideas for these seemingly strange stories were inspired by a single cup of Irish coffee.
 Taste them for yourself. I am certain you will find something that resonates. In the eternal struggle to collapse distance or defeat time, one can only choose one path.
 For inspired by my book WILD COFFEE you can get your 24 shots here: https://payhip.com/b/0TIsA
